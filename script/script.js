@@ -21,7 +21,7 @@ $(document).ready(function() {
     //<a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
     // save icon for planner
-    const saveIcon = "save.svg"; 
+    const saveIcon = "images/save.svg"; 
   
     // Get stored todos from localStorage
     // Parse the JSON string to an object
