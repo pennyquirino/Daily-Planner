@@ -1,6 +1,6 @@
 body {
     /* image for background */
-    background-image: url('images/watercolor.png');
+    background-image: url('/images/watercolor.png');
   
    
     font-family: Arial, Helvetica, sans-serif;
