@@ -1,5 +1,7 @@
 # Daily-Planner
 
+<a href="https://pennyquirino.github.io/Daily-Planner/">Click to see my work</a> 
+
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ## User Story
@@ -21,6 +23,8 @@ WHEN I click the save button for that time block<br>
 THEN the text for that event is saved in local storage<br>
 WHEN I refresh the page<br>
 THEN the saved events persist<br>
+
+
 
 
 ![](./images/planner.JPG)
